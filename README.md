@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Phyton" height="30" width="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg>
+  <img align="center" alt="Phyton" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg>
 </div>
  
 <br>
